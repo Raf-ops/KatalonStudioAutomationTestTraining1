@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Fax Masuk_ms-Icon ms-Icon--MailForward</name>
+   <tag></tag>
+   <elementGuidId>7d176fee-fd8b-4f87-945c-7035b773cb3c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='mail-64aeeb8d-16b4-41b1-9bf8-fd4b72de10c4']/div/div[2]/div/span[2]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.ms-Icon.ms-Icon--MailForward</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Icon ms-Icon--MailForward</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mail-64aeeb8d-16b4-41b1-9bf8-fd4b72de10c4&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-11&quot;]/div[@class=&quot;status-mail&quot;]/span[@class=&quot;pull-right&quot;]/a[1]/i[@class=&quot;ms-Icon ms-Icon--MailForward&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='mail-64aeeb8d-16b4-41b1-9bf8-fd4b72de10c4']/div/div[2]/div/span[2]/a/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/a/i</value>
+   </webElementXpaths>
+</WebElementEntity>

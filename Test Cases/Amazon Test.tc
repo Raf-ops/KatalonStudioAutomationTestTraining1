@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>My First Automation Test with Katalon Recorder</description>
+   <name>Amazon Test</name>
+   <tag>Training</tag>
+   <comment></comment>
+   <testCaseGuid>b908ae19-c34b-41ba-a489-760dcb5025ba</testCaseGuid>
+</TestCaseEntity>
