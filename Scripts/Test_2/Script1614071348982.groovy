@@ -23,5 +23,7 @@ WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
 
 WebUI.waitForElementVisible(findTestObject('Page_OrangeHRM/span_( Username  Admin  Password  admin123 )'), 30)
 
+WebUI.waitForElementClickable(findTestObject('Page_OrangeHRM/Page_OrangeHRM/input_Password_Submit'), 30)
+
 WebUI.closeBrowser()
 
